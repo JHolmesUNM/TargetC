@@ -1,2 +1,2 @@
 # TargetC
-A load .csv dynamically vis javascript. 
+A load .csv dynamically via javascript. 
